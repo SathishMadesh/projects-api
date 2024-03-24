@@ -1,0 +1,44 @@
+[
+    {
+        "key" : 1,
+        "title": "Task Management System",
+        "image": "https://i.ibb.co/jyXc0CW/Task-management.jpg",
+        "discription": "A comprehensive project, combines React for the front end and Django for the back end.",
+        "gitlink": "https://github.com/SathishMadesh/Task-Management"
+    },
+    {
+        "key" : 2,
+        "title": "Student Management System",
+        "image": "https://i.ibb.co/VLkx15g/sms.jpg",
+        "discription": "Student Management System built with Python Django.",
+        "gitlink": "https://github.com/SathishMadesh/Student-Management-System"
+    },
+    {
+        "key" : 3,
+        "title": "E-Commerce Website",
+        "image": "https://i.ibb.co/r38L2d2/e-com.png",
+        "discription": "Visually appealing display of products on the e-commerce website, categorized based on product types.",
+        "gitlink": "https://github.com/SathishMadesh/React-Shop"
+    },
+    {
+        "key" : 4,
+        "title": "Live News App",
+        "image": "https://i.ibb.co/y5RGKxc/news-app.png",
+        "discription": "",
+        "gitlink": "https://github.com/SathishMadesh/Live-News---React"
+    },
+    {
+        "key" : 5,
+        "title": "Expense Tracker",
+        "image": "https://i.ibb.co/vmjyWVD/exp-tr.png",
+        "discription": "Sleek UI-driven expense tracker crafted with JavaScript, HTML, and CSS.",
+        "gitlink": "https://github.com/SathishMadesh/Expense-tracker"
+    },
+    {
+        "key" : 6,
+        "title": "Netflix Clone",
+        "image": "https://i.ibb.co/mRTLBL0/netflix.png",
+        "discription": "",
+        "gitlink": "https://github.com/SathishMadesh/Netflix-project"
+    }
+]
